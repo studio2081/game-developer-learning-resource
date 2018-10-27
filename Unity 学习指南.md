@@ -22,6 +22,5 @@
 
 [虎课网](https://huke88.com/)
 
-##### 大佬的资源整理
-
-[github-llzzaya](https://github.com/IIzzaya/game-developer-learning-resource)
+##### Youtube
+[Brackey](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA)
