@@ -1,7 +1,7 @@
 ##### C#
 
-||[Unity - Scripting API](https://docs.unity3d.com/2017.2/Documentation/ScriptReference/index.html)（官方）
- http://www.runoob.com/csharp/csharp-tutorial.html （全面详细，中文）
+1. [Unity - Scripting API](https://docs.unity3d.com/2017.2/Documentation/ScriptReference/index.html)（官方）
+2. http://www.runoob.com/csharp/csharp-tutorial.html （全面详细，中文）
 
 ##### Unity 学习
 
@@ -25,4 +25,4 @@
 ##### Youtube
 [Brackey](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA)
 
-###### Youtube
+
