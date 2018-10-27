@@ -22,4 +22,6 @@
 
 [虎课网](https://huke88.com/)
 
+##### 大佬的资源整理
 
+[git-llzzaya]（https://github.com/IIzzaya/game-developer-learning-resource)
