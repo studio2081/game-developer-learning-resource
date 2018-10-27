@@ -20,7 +20,7 @@
 
 ##### 设计软件入门学习课程
 
-[虎课网](https://huke88.com/)
+[虎课网](https://huke88.com/)（可以向我要vip账号）
 
 ##### Youtube
 [Brackey](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA)
