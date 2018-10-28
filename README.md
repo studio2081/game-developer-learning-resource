@@ -1,7 +1,7 @@
 ## Table of Contents
 * [C#](#C#)
 * [Unity](#Unity)
-* [Cimmunity](#Community)
+* [Community](#Community)
 * [CG](#CG)
 * [Design Software](#DesignSoftware)
 * [Youtuber](#Youtuber)
