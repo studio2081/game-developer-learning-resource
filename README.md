@@ -25,7 +25,7 @@
 
 ### CG
 
-- http://ghostxx.com/ （大量的学习素材）
+- [Ghostxx-CG](http://ghostxx.com/) （大量的学习素材）
 
 ### DesignSoftware 
 
