@@ -1,7 +1,7 @@
 ##### C#/.NET/API
 
 - [Unity - Scripting API](https://docs.unity3d.com/2017.2/Documentation/ScriptReference/index.html)（官方）
-- [RUNOOB-C#](http://www.runoob.com/csharp/csharp-tutorial.html)（全面详细/中文）
+- [RUNOOB-C#](http://www.runoob.com/csharp/csharp-tutorial.html)（全面详细）
 
 ##### Unity 
 
