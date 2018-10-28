@@ -1,5 +1,5 @@
 ## Table of Contents
-* [C#](#C#/.NET/API)
+* [C#](#C#/API)
 * [Unity](#Unity)
 * [Cimmunity](#Community)
 * [CG](#CG)
@@ -7,7 +7,7 @@
 * [Youtuber](#Youtuber)
 
 
-### C#/.NET/API
+### C#/API
 
 - [Unity - Scripting API](https://docs.unity3d.com/2017.2/Documentation/ScriptReference/index.html)（官方）
 - [RUNOOB-C#](http://www.runoob.com/csharp/csharp-tutorial.html)（全面详细）
