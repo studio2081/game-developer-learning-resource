@@ -27,7 +27,7 @@
 
 - http://ghostxx.com/ （大量的学习素材）
 
-### Design Software 
+### DesignSoftware 
 
 [虎课网](https://huke88.com/)
 
