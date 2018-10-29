@@ -1,6 +1,6 @@
 ## Content Navigation
 ### [Learning Route](#LearningRoute)
-### Table of Contents
+### Resource Arrangement
 * [Unity官方](#Unity官方)
 * [Community](#Community)
 * [Youtuber](#Youtuber)
@@ -8,32 +8,6 @@
 * [Website](#Website)
 
 #### LearningRoute
->>1.从一些简单的案例入手（2D、3D游戏等），了解Unity引擎
-2.学习基本的C#编程知识
-3.了解Unity API文档
-4.Unity UI系统
-5.Unity DOTween或iTween动画插件
-6.Unity Timeline和动画系统
-7.更全面的C#编程知识
-8.数据结构
-9.AdMob
-10.UnityAds
-11.unet
-12.Shuriken粒子系统
-13.MVC框架
-14.Unity Behavior Designer
-15.Unity性能调优
-16.Unity编辑器
-17.Lua
-18.xLua
-19.游戏编程框架
-20.Shader
-21.算法
-22.游戏设计模式
-23.人工智能
-24.MySQL数据库
-25.PhotonServer
->>26.Socket TCP-网络游戏开发
 
 #### Unity官方
 - [Unity - Scripting API](https://docs.unity3d.com/2017.2/Documentation/ScriptReference/index.html)（API指南）
