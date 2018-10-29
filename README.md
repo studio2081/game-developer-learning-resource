@@ -6,7 +6,7 @@
 
 
 #### UnityBeginner
-- [Coursera复旦大学-Unity学习基础](https://www.bilibili.com/video/av10755879/%20) -bilibili/初识unity(**详细**)**（太监）**
+- [Coursera复旦大学-Unity学习基础](https://www.bilibili.com/video/av10755879/%20) -bilibili/初识unity**（详细）**
 
 #### Unity官方
 - [Unity - Scripting API](https://docs.unity3d.com/2017.2/Documentation/ScriptReference/index.html) -API指南
