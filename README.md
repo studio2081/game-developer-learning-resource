@@ -1,5 +1,5 @@
 ## Content Navigation
-### Learning Route(#LearningRoute)
+### [Learning Route](#LearningRoute)
 ### Table of Contents
 * [Unity官方](#Unity官方)
 * [Community](#Community)
@@ -8,7 +8,7 @@
 * [Website](#Website)
 
 #### LearningRoute
-1.从一些简单的案例入手（2D、3D游戏等），了解Unity引擎
+>>1.从一些简单的案例入手（2D、3D游戏等），了解Unity引擎
 2.学习基本的C#编程知识
 3.了解Unity API文档
 4.Unity UI系统
@@ -33,7 +33,7 @@
 23.人工智能
 24.MySQL数据库
 25.PhotonServer
-26.Socket TCP-网络游戏开发
+>>26.Socket TCP-网络游戏开发
 
 #### Unity官方
 - [Unity - Scripting API](https://docs.unity3d.com/2017.2/Documentation/ScriptReference/index.html)（API指南）
