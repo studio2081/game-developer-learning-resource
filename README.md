@@ -24,7 +24,7 @@
 
 
 ### Youtuber
-[Brackey](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA)（分类教程/有趣）
+- [Brackey](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA)（分类教程/有趣）
 
 ### Website
 - [raywenderlich.com-unity](https://www.raywenderlich.com/unity)(unity案例/教程/种类多）
