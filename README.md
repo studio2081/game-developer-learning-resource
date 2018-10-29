@@ -19,10 +19,9 @@
 - [Catlike Coding-Unity](https://catlikecoding.com/) - Unity/C#/Shader/**精粹**
 - [Coursera - Introduction to Game Development](https://www.coursera.org/learn/game-development/) -密歇根州立大学/英文/科学上网/**扩展**
 - [opengl-tutorial](http://www.opengl-tutorial.org/cn/) -Shader/**系统**
-- [游戏蛮牛](http://www.manew.com/) -学习社区/**资源丰富**
-- [Ghostxx-CG](http://ghostxx.com/) -原画素材/教程
+- [游戏蛮牛](http://www.manew.com/) -学习社区/**丰富**
+- [Ghostxx-CG](http://ghostxx.com/) -原画素材/教程/**丰富**
 - [虎课网](https://huke88.com/) -设计软件入门/**免费**
 
-#### PS
-><font size=1>以上均为学习过程中网站资源资源的整理，不包含所使用的电子书籍以及参考文献，如有需要联系本人推荐。</font>
+
 
