@@ -24,6 +24,5 @@
 - [虎课网](https://huke88.com/) -设计软件入门/**免费**
 
 #### PS
->><font size=5>以上均为学习过程中网站资源资源的整理，不包含所使用的电子书籍以及参考文献，如有需要联系本人推荐。</font>
->>感谢[*IIzzaya*](https://github.com/IIzzaya/game-developer-learning-resource)大佬提供的模板，另外整理的内容非常棒，学习！
+>><font size=2>以上均为学习过程中网站资源资源的整理，不包含所使用的电子书籍以及参考文献，如有需要联系本人推荐。</font>
 
