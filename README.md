@@ -1,5 +1,5 @@
 ## Content Navigation
-### Learning Route(#Learning Route)
+### Learning Route(#LearningRoute)
 ### Table of Contents
 * [Unity官方](#Unity官方)
 * [Community](#Community)
@@ -7,7 +7,7 @@
 * [Bilibili](#Bilibili)
 * [Website](#Website)
 
-#### Learning Route
+#### LearningRoute
 1.从一些简单的案例入手（2D、3D游戏等），了解Unity引擎
 2.学习基本的C#编程知识
 3.了解Unity API文档
