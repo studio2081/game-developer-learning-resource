@@ -11,7 +11,7 @@
 #### Unity官方
 - [Unity - Scripting API](https://docs.unity3d.com/2017.2/Documentation/ScriptReference/index.html) -API指南
 - [Unity - Mannul](https://docs.unity3d.com/2017.2/Documentation/Manual/UnityManual.html) -unity使用说明书
-- [Unity Community](https://unity3d.com/cn/community) -unity学习官方答疑区
+- [Unity Community](https://unity3d.com/cn/community) -unity官方学习社区
 
 #### Website
 - [raywenderlich.com-unity](https://www.raywenderlich.com/unity) -unity案例/教程/**种类多**
