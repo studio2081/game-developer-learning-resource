@@ -7,11 +7,11 @@
 
 
 #### UnityBeginner
-- [Coursera复旦大学-Unity学习基础](https://www.bilibili.com/video/av10755879/%20) (bilibili)
+- [Coursera复旦大学-Unity学习基础](https://www.bilibili.com/video/av10755879/%20) (bilibili/详细/初识unity)
 
 #### Unity官方
 - [Unity - Scripting API](https://docs.unity3d.com/2017.2/Documentation/ScriptReference/index.html)（API指南）
-- [Unity - Mannul](https://docs.unity3d.com/2017.2/Documentation/Manual/UnityManual.html)（unity 使用说明书）
+- [Unity - Mannul](https://docs.unity3d.com/2017.2/Documentation/Manual/UnityManual.html)（unity使用说明书/全面）
 - [Unity Community](https://unity3d.com/cn/community)（unity学习官方答疑区）
 
 #### Youtuber
