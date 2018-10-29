@@ -1,13 +1,11 @@
 ## Content Navigation
-### [Learning Route](#LearningRoute)
-### Resource Arrangement
 * [Unity官方](#Unity官方)
 * [Community](#Community)
 * [Youtuber](#Youtuber)
 * [Bilibili](#Bilibili)
 * [Website](#Website)
 
-#### LearningRoute
+
 
 #### Unity官方
 - [Unity - Scripting API](https://docs.unity3d.com/2017.2/Documentation/ScriptReference/index.html)（API指南）
