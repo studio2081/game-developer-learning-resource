@@ -23,3 +23,7 @@
 - [Ghostxx-CG](http://ghostxx.com/) -原画素材/教程
 - [虎课网](https://huke88.com/) -设计软件入门/**免费**
 
+#### PS
+以上均为学习过程中网站资源资源的整理，不包含所使用的电子书籍，参考文献，如有需要联系本人推荐即可
+感谢[*IIzzaya*](https://github.com/IIzzaya/game-developer-learning-resource)大佬提供的模板，另外整理的内容非常棒，学习！
+
