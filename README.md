@@ -1,7 +1,6 @@
 ## Content Navigation
 * [Unity官方](#Unity官方)
-* [Community](#Community)
-* [Youtuber](#Youtuber/Bilibili)
+* [Youtuber/Bilibili](#Youtuber)
 * [Website](#Website)
 
 
