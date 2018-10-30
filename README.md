@@ -7,7 +7,7 @@
 
 #### GamesBeginner
 - [Coursera复旦大学-Unity学习基础](https://www.bilibili.com/video/av10755879/%20) -bilibili/初识unity/**详细**
-- [Unity 官方教程-Survival Shooter-自译](https://www.bilibili.com/video/av18791296?from=search&seid=14997144213918929603) -bilibili/官方案例/中文字幕
+- [Unity 官方教程-Survival Shooter-自译](https://www.bilibili.com/video/av18791296?from=search&seid=14997144213918929603) -bilibili/官方案例/**中文字幕**
 
 #### Unity官方
 - [Unity-Scripting API](https://docs.unity3d.com/2017.2/Documentation/ScriptReference/index.html) -API指南
