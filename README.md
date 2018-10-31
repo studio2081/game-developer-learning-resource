@@ -1,11 +1,11 @@
 ## Contents Navigation
-* [GamesBeginner](#UnityBeginner) -萌新入门
+* [Beginner](#Beginner) -萌新入门
 * [Unity官方](#Unity官方) -Unity系统学习及相关
 * [Website](#Website) -进阶与扩展
 
 
 
-#### GamesBeginner
+#### Beginner
 - [Coursera复旦大学-Unity学习基础](https://www.bilibili.com/video/av10755879/%20) -bilibili/初识unity/**详细**
 - [Unity 官方教程-Survival Shooter-自译](https://www.bilibili.com/video/av18791296?from=search&seid=14997144213918929603) -bilibili/官方案例/**中文字幕**
 
@@ -15,7 +15,6 @@
 - [Unity-Scripting API](https://docs.unity3d.com/2017.2/Documentation/ScriptReference/index.html) -API指南
 - [Unity Community](https://unity3d.com/cn/community) -unity官方学习社区
 - [Unity Connect](https://connect.unity.com/) -unity游戏开发圈
-
 
 #### Website
 - [raywenderlich.com-unity](https://www.raywenderlich.com/unity) -unity案例/教程/**种类多**
