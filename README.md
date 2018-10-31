@@ -15,7 +15,6 @@
 - [Unity Community](https://unity3d.com/cn/community) -unity官方学习社区
 - [Unity Connect](https://connect.unity.com/) -unity游戏开发圈
 - [Unity-Tutorials](https://unity3d.com/cn/learn/tutorials) -unity官方教程
-- [Unity-3D Game Kit](https://unity3d.com/cn/learn/tutorials/s/3d-game-kit) -3D游戏工具包
 
 #### Website
 - [raywenderlich.com-unity](https://www.raywenderlich.com/unity) -unity案例/教程/**种类多**
