@@ -10,11 +10,12 @@
 - [Unity 官方教程-Survival Shooter-自译](https://www.bilibili.com/video/av18791296?from=search&seid=14997144213918929603) -bilibili/官方案例/**中文字幕**
 
 #### Unity官方
-- [Unity-Scripting API](https://docs.unity3d.com/2017.2/Documentation/ScriptReference/index.html) -API指南
+- [Unity-Tutorials](https://unity3d.com/cn/learn/tutorials) -unity官方案例
 - [Unity-Mannul](https://docs.unity3d.com/2017.2/Documentation/Manual/UnityManual.html) -unity使用说明书
+- [Unity-Scripting API](https://docs.unity3d.com/2017.2/Documentation/ScriptReference/index.html) -API指南
 - [Unity Community](https://unity3d.com/cn/community) -unity官方学习社区
 - [Unity Connect](https://connect.unity.com/) -unity游戏开发圈
-- [Unity-Tutorials](https://unity3d.com/cn/learn/tutorials) -unity官方教程
+
 
 #### Website
 - [raywenderlich.com-unity](https://www.raywenderlich.com/unity) -unity案例/教程/**种类多**
