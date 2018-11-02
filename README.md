@@ -21,8 +21,10 @@
 - [Brackey](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA) -youtube/分类教程/unity新功能/**有趣**
 - [Sykoo](https://www.youtube.com/channel/UCNJvwJ6daLmw4_gUKTw4cSg) -youtube/游戏制作/unity对比ue/**新**
 - [Catlike Coding-Unity](https://catlikecoding.com/) -Unity/C#/Shader/**精粹**
-- [Coursera-Introduction to Game Development](https://www.coursera.org/learn/game-development/) -密歇根州立大学/英文/科学上网/**扩展**
 - [opengl-tutorial](http://www.opengl-tutorial.org/cn/) -Shader/**系统**
+- [GMTK](https://www.youtube.com/user/McBacon1337) -游戏分析/**精彩**
+- [卡姐cara](https://space.bilibili.com/180052141/#/) -游戏机制分析/游戏设计/游戏音效
+- [Coursera-Introduction to Game Development](https://www.coursera.org/learn/game-development/) -密歇根州立大学/英文/科学上网/**扩展**
 - [游戏蛮牛](http://www.manew.com/) -学习社区/**丰富**
 - [Ghostxx-CG](http://ghostxx.com/) -原画素材/教程/**丰富**
 - [虎课网](https://huke88.com/) -设计软件入门/**免费**
