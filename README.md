@@ -1,6 +1,6 @@
 >Contact us, please Northeastern University In Qinghuangdao 蒸汽独游社 qq 600716885
 ## Contents Navigation
-* [Beginner](#Beginner) 
+- [Beginner](#Beginner) 
 -- C#/.Net
 -- unity引擎
 -- 人物设计
