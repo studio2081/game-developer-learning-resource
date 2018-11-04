@@ -1,7 +1,7 @@
 ## Contents Navigation
 - [Beginner](#Beginner) 
-  - C#/.Net/unity引擎
-  - 人物设计/场景/三维建模
+  - C#&.Net&unity引擎
+  - 人物设计&场景&三维建模
   - 音效
 - [Basic Learning Map](#basic-learning-map)
   - [C# & Unity's .dll (C#语法&.Net库&Unity库)](#c--unitys-dll-c语法net库unity库)
