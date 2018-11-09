@@ -14,7 +14,7 @@
   - [Animation & Animator (角色动画控制)](#animation--animator-角色动画控制)
   - [Music (音乐)](#music-音乐)
   - [Plugin (插件)](#plugin-插件)
-    - [Unity DOTween或iTween动画插件](#Unity-DOTween|iTween-动画插件）
+    - [Unity DOTween或iTween动画插件](#Unity-DOTween|iTween-动画插件)
   - [Lua & xLua](#Lua--xLua)
   - [AI & Mechine Learning (人工智能和机器学习)](#ai--machine-learning-人工智能和机器学习)
   - [Game Throey (游戏机制理论)](#game-throey-游戏机制理论)
