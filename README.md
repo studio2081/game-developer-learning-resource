@@ -32,8 +32,12 @@
 
 ## Main Body
 #### Beginner
-- [Coursera复旦大学-Unity学习基础](https://www.bilibili.com/video/av10755879/%20) -bilibili/C#&.Net&unity引擎/**详细**
-- [Unity 官方教程-Survival Shooter-自译](https://www.bilibili.com/video/av18791296?from=search&seid=14997144213918929603) -bilibili/unity引擎/**中文字幕**
+- [Coursera复旦大学-Unity学习基础](https://www.bilibili.com/video/av10755879/%20) -bilibili/C#&.Net&unity引擎
+- [MAYA建模【触手之路】第二季（完结）](https://www.bilibili.com/video/av800712/) -bilibili/三维建模
+- [Zbrush生物角色高级雕刻](http://www.imooc.com/learn/535) -imooc/三维建模
+- [零基础学习3DS MAX软件](https://huke88.com/route/3dsmax.html) -虎课网/三维建模
+- [【sai教程】教你如何从起型到定稿再到一幅好看的线稿。.看完都学会了么!](https://www.bilibili.com/video/av17735741/?share_source=qq&ts=1528901266&share_medium=%20iphone&bbid=24137664d5877f3980e2cdbefb6ebc16) -bilibili/人物设计
+- [20 分钟入门 FL Studio 12](http://doyoudo.com/p/5001142.html) -doyoudo/音效
 
 #### Unity官方
 - [Unity-Tutorials](https://unity3d.com/cn/learn/tutorials) -unity官方案例
@@ -50,10 +54,10 @@
 - [opengl-tutorial](http://www.opengl-tutorial.org/cn/) -Shader/**系统**
 - [GMTK](https://www.youtube.com/user/McBacon1337) -游戏分析/**精彩**
 - [卡姐cara](https://space.bilibili.com/180052141/#/) -游戏机制分析/游戏设计/music
-- [Coursera-Introduction to Game Development](https://www.coursera.org/learn/game-development/) -密歇根州立大学/unity引擎/**扩展**
-- [游戏蛮牛](http://www.manew.com/) -学习社区/**丰富**
-- [Ghostxx-CG](http://ghostxx.com/) -原画素材/教程/**丰富**
-- [虎课网](https://huke88.com/) -设计软件入门/**免费**
+- [游戏蛮牛](http://www.manew.com/) -unity学习社区/**丰富**
+- [Ghostxx-CG](http://ghostxx.com/) -CG/**丰富**
+- [NiceChord (好和弦)](https://www.youtube.com/channel/UCVXstWyJeO6No3jYELxYrjg) -music/**干货**
+
 
 #### Article
 ##### water waves
