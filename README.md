@@ -56,6 +56,8 @@
 - [卡姐cara](https://space.bilibili.com/180052141/#/) -游戏机制分析/游戏设计/music
 - [雨松MOMO程序研究院](https://www.xuanyusong.com/) -浅显易懂而又全面的中文Unity图文教程
 - [游戏蛮牛](http://www.manew.com/) -unity学习社区/**丰富**
+- [moderndayjames](https://www.youtube.com/channel/UCI8GDFj5BQCQrSHITFebzkA) -一个很棒的美术设计站点
+- [Scott Robertson](https://www.youtube.com/user/scottrobertsondesign) -美术设计学习者必看的视频教程
 - [Ghostxx-CG](http://ghostxx.com/) -CG/**丰富**
 - [NiceChord (好和弦)](https://www.youtube.com/channel/UCVXstWyJeO6No3jYELxYrjg) -music/**干货**
 
